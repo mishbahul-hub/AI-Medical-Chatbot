@@ -1,0 +1,23 @@
+{
+  "name": "medical-ai-frontend",
+  "version": "1.0.0",
+  "description": "Medical AI Assistant - React Frontend",
+  "author": "Mishbahul Al Islam",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -p 8080 -o",
+    "dev": "http-server -p 8080",
+    "start:3000": "http-server -p 3000 -o",
+    "start:5000": "http-server -p 5000 -o"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "keywords": [
+    "medical",
+    "ai",
+    "chat",
+    "react",
+    "medical-assistant"
+  ]
+}
